@@ -2,7 +2,9 @@
 <h3 align="center">I am Software Test Engineer</h3>
 
 - 🌱 I’m currently enrolled at 9-Month Professional Postgraduate Diploma in Quality Assurance and Software Testing Track
+- 🔭 I’m currently working on building my own test automation framework from scratch
 - 📫 How to reach me **rana.mustafa.9924@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
