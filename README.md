@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rana Mostafa Hassan</h1>
 <h3 align="center">I am Software Test Engineer</h3>
 
-- 🌱 I’m currently enrolled at 9-Month Professional Postgraduate Diploma in Quality Assurance and Software Testing Track
-- 🔭 I’m currently working on building my own test automation framework from scratch
+- 🌱 I’m currently Quality Control Engineer at Luciq (formally known as Instabug)
 - 📫 How to reach me **rana.mustafa.9924@gmail.com**
 
 
